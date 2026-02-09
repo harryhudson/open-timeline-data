@@ -1,0 +1,61 @@
+#
+# This workflow validates the data
+#
+
+name: Validate data
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  print-info:
+    name: Print CI info
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+         echo "User => ${{ github.actor }}"
+         echo "Event => ${{ github.event_name }}"
+         echo "Server => ${{ runner.os }}"
+         echo "Branch => ${{ github.ref }}"
+         echo "Repo => ${{ github.repository }}"
+         echo "Repo => ${{ github.workspace }}"
+         echo "Status => ${{ job.status }}."
+         env
+
+  code-fmt:
+    name: Check Rust formatting
+    runs-on: ubuntu-latest
+    steps:
+      # Setup
+      - name: Checkout the repo
+        uses: actions/checkout@v4
+      - name: Use the Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+      - name: Setup up a cache for Rust
+        uses: Swatinem/rust-cache@v2
+      # Run
+      - name: Check the code formatting
+        run: |
+          cd validator
+          cargo fmt --all -- --check
+
+  validate-data:
+    name: Validate data
+    runs-on: ubuntu-latest
+    needs: [code-fmt]
+    steps:
+      # Setup
+      - name: Checkout the repo
+        uses: actions/checkout@v4
+      - name: Use the Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+      - name: Setup up a cache for Rust
+        uses: Swatinem/rust-cache@v2
+      # Run
+      - name: Run validator
+        run: |
+          cd validator
+          cargo r

@@ -1,0 +1,1746 @@
+[
+  {
+    "id": "012485b6-62bd-477f-afae-3bb95d4e364a",
+    "name": "Hungary",
+    "bool_expr": "(hungary | hungarian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "02340820-d174-408a-89e5-d3147c2a09a0",
+    "name": "Bolivia",
+    "bool_expr": "(bolivia | bolivian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "05803cfc-f2d2-49b4-9779-b8034ce64d57",
+    "name": "Flight",
+    "bool_expr": "history-of-flight",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "05f4db55-ae36-46b8-b59a-7878f98d4bdf",
+    "name": "Yombe Art",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "08f6f521-9a51-4922-8fa8-aa427ee23a0b",
+    "name": "Philippines",
+    "bool_expr": "(philippines | filipino)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0b39b2a8-8e04-40f3-a0c6-d2b60f6a8679",
+    "name": "United States",
+    "bool_expr": "united-states",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0b462808-7c87-4854-8c49-96d564f41048",
+    "name": "Colombia",
+    "bool_expr": "(colombia | colombian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0bea70c9-dcbc-4e00-9601-712bde66184f",
+    "name": "Soviet Russia",
+    "bool_expr": "(soviet | soviet-union)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0c4761cd-2683-4702-a2f8-d13f4846f804",
+    "name": "Turkey",
+    "bool_expr": "(turkey | turkish)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0dda7b6e-7fe9-4c66-86ff-8d17f7c2e3ac",
+    "name": "Africa",
+    "bool_expr": "(africa | african)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0e0cc344-2775-42d6-91f4-d131ffa26565",
+    "name": "Sumerian Art",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0fb66962-b9cb-432c-bb46-39008ad226ca",
+    "name": "Tanzania",
+    "bool_expr": "(tanzania | tanzanian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0fca170f-047b-4fc6-88c9-ea01b58417ce",
+    "name": "Pointillism",
+    "bool_expr": "pointillism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1090ccf9-822c-425c-be08-254bc2417df2",
+    "name": "National Independence",
+    "bool_expr": "(national-independence | independence)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "10c22988-f612-4458-8668-95008d303f4d",
+    "name": "Nepal",
+    "bool_expr": "(nepal | nepali)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "10c7dc0f-bd45-4d88-a9da-871a8c2a737d",
+    "name": "Zimbabwe",
+    "bool_expr": "(zimbabwe | zimbabwean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "14ea61fa-5304-499c-8bc4-94dba3dd01b1",
+    "name": "Indonesia",
+    "bool_expr": "(indonesia | indonesian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "14f11e53-41cc-49d9-b1c7-44a96964c88d",
+    "name": "Akkadian Art",
+    "bool_expr": "akkadian-art",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1581c1d9-584c-4e2d-a711-eb753c4eff95",
+    "name": "Primitive art (Naive painting)",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "158d3750-820a-4c22-b96f-36f725d0f5eb",
+    "name": "Academic Art",
+    "bool_expr": "academic-art",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "160a53a6-3aa3-43d7-b79e-7aa9f3ddad46",
+    "name": "Babylonian Art",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "16c703a8-34fd-4e9e-8992-c540b4b28edf",
+    "name": "Edwardian era",
+    "bool_expr": "edwardian-era",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "19e85551-3f3e-47c5-89e8-99037f6e63a8",
+    "name": "Myanmar",
+    "bool_expr": "(myanmar | (burmese | burma))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1a1e3921-0661-4dfb-97cd-bd1b720087d0",
+    "name": "Divisionism",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1ab77a95-3376-4523-a56c-197c259775c9",
+    "name": "Ottoman Sultans",
+    "bool_expr": "(ottoman & sultan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1ae0b48b-17e0-4a7f-9631-87b13548caec",
+    "name": "Colonial Architecture",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1aeb283b-5f8f-478e-a4a7-41b2d256757d",
+    "name": "Chokwe Art",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1b91e0e1-a259-4528-86a0-5ec04ba745f1",
+    "name": "Islamic Golden Age",
+    "bool_expr": "islamic-golden-age",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1c1ad329-41d1-49f4-8d7f-f548bd93bbb4",
+    "name": "Australia",
+    "bool_expr": "(australia | australian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1c8f027c-91a8-4ff9-b4a9-4cf7501d7eb3",
+    "name": "Northern Renaissance",
+    "bool_expr": "northern-renaissance",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1d4db2b8-14aa-4668-9c22-8ae0884aa92f",
+    "name": "Ethiopia",
+    "bool_expr": "(ethiopia | ethiopia)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1d89b0e2-f27f-40a9-9802-fc84c2305827",
+    "name": "English Reformation",
+    "bool_expr": "(reformation & england)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1e507c0e-a56f-4b20-bade-088f7e90c29a",
+    "name": "Papua New Guinea",
+    "bool_expr": "(papua-new-guinea | papua-new-guinean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1fdc7588-4eaa-48cf-9b44-60acb393951e",
+    "name": "South Africa",
+    "bool_expr": "(south-africa | south-african)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "2031d6a7-09da-4e2b-9513-79de23591208",
+    "name": "East Asia",
+    "bool_expr": "(east-asia | east-asian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "20991a8a-8cf9-4f8e-82a3-948e5781ddea",
+    "name": "Byzantine Art",
+    "bool_expr": "byzantine-art",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "21423685-47f4-46b9-b69a-f4dfd7ea24bc",
+    "name": "Kenya",
+    "bool_expr": "(kenya | kenyan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "2254ade6-fb0a-4b55-a66f-84a128a2d654",
+    "name": "Nicaragua",
+    "bool_expr": "(nicaragua | nicaraguan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "23b58077-645b-4a9e-bb2c-98aa45a73116",
+    "name": "Gilded Age",
+    "bool_expr": "gilded-age",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "2603b82e-8e2a-4932-8346-a180f626145e",
+    "name": "Israel",
+    "bool_expr": "(israel | (israeli | israel-palestine-conflict))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "2620d662-ca4f-46fe-9bea-43b21bf2c607",
+    "name": "France",
+    "bool_expr": "(france | french)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "277e7bda-6c22-4edb-95e2-b6cf520d5c1f",
+    "name": "Sudan",
+    "bool_expr": "(sudan | sudanese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "27845999-73cb-4543-9aab-a6e877404a0d",
+    "name": "Qatar",
+    "bool_expr": "(qatar | qatari)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "28350085-3d86-4758-865b-e7fa3f0c41d0",
+    "name": "Tudor Architecture",
+    "bool_expr": "(architectrue & tudor)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "29a23d03-8b3c-4aa6-8a68-97280ede5c33",
+    "name": "Pende Art",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "29b0df43-9dc3-4dea-8044-1bd0fdd0ea13",
+    "name": "Mexican Art",
+    "bool_expr": "mexican-art",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "29d2d28c-66a7-47e5-87d4-f357089bdd2a",
+    "name": "Yemen",
+    "bool_expr": "(yemen | yemeni)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "2b28dbea-d8e5-4226-abb9-c0218fc79942",
+    "name": "Abstract Expressionism",
+    "bool_expr": "abstract-expressionism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "2b964bc2-5017-4908-92ba-518d5b6c4170",
+    "name": "England",
+    "bool_expr": "(england | english)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "2c4c5634-473a-47b3-9fc8-84560a4a5c62",
+    "name": "The Cold War",
+    "bool_expr": "cold-war",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "2f6564ea-20ae-4f9c-ac90-aa73f3e70f41",
+    "name": "Aztecs",
+    "bool_expr": "(aztec | aztecs)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "317d7e6c-4c1a-43a3-bad8-90f64dfebfe1",
+    "name": "Invasions",
+    "bool_expr": "invasion",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "322b0eba-8794-4fc5-9812-04f57f9ef7a3",
+    "name": "Uzbekistan",
+    "bool_expr": "(uzbekistan | uzbek)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "3405cb63-2b1b-40a1-b499-22dc64d9de21",
+    "name": "Canada",
+    "bool_expr": "(canada | canadian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "34077014-c66a-409a-af80-e50609edda39",
+    "name": "Mannerism",
+    "bool_expr": "mannerism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "358cf6f1-0668-4919-9503-a602b3d9d50d",
+    "name": "Baroque Architecture",
+    "bool_expr": "(baroque & architecture)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "38d49916-5632-4cbc-bf51-ecb20459a7d8",
+    "name": "Republic of Venice",
+    "bool_expr": "republic-of-venice",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "3b72cb57-8104-44a4-95c9-0d1fd2cf7d13",
+    "name": "Slovakia",
+    "bool_expr": "(slovakia | slovak)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "3fe388c5-e1a8-4e3a-a4ca-17afdfd4debd",
+    "name": "People",
+    "bool_expr": "person",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "40911ef6-d39a-4e8a-964c-480cf127dd80",
+    "name": "Battles",
+    "bool_expr": "battle",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "430a0a37-ebe9-474d-a9e7-0fcd1f30acb7",
+    "name": "Denmark",
+    "bool_expr": "(denmark | danish)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "439e3082-185c-4e99-95b7-67cf748d8622",
+    "name": "The Middle East",
+    "bool_expr": "middle-east",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "452e8a4d-1376-42eb-aa63-f5a80ab8fd76",
+    "name": "Costa Rica",
+    "bool_expr": "(costa-rica | costa-rican)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "459647c6-1bac-4889-92f2-226199434a49",
+    "name": "Madagascar",
+    "bool_expr": "(madagascar | malagasy)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "4879f9cf-603b-442d-bd75-068d0cb44afa",
+    "name": "Philosophers",
+    "bool_expr": "philosopher",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "4d0cde73-1474-458e-b5a5-ac53a95c3701",
+    "name": "Singapore",
+    "bool_expr": "(singapore | singaporean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "4d38a79e-3924-4406-86ba-694fd45c8e35",
+    "name": "Music",
+    "bool_expr": "history-of-music",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "4d3b7658-3d95-4c37-9043-4d1ee2f0b089",
+    "name": "Baroque Art",
+    "bool_expr": "(baroque & art)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "4f09ac30-7838-4f48-86ea-5370bd9287e3",
+    "name": "Cubism",
+    "bool_expr": "cubism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "4f6908a4-692a-424a-8217-d5336d01f691",
+    "name": "Nobel Prize Winners",
+    "bool_expr": "(nobel-prize-winner & person)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "54295d99-4de2-4748-a8ba-e444f597f147",
+    "name": "Peru",
+    "bool_expr": "(peru | peruvian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "54918e27-4471-406f-a336-43dbe6a86ed4",
+    "name": "Algeria",
+    "bool_expr": "(algeria | algerian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "5542e2e1-dc84-4c39-a311-1f54095a5a56",
+    "name": "Finland",
+    "bool_expr": "(finland | finn)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "55553bd4-3303-40b9-bc0c-877376a85eec",
+    "name": "Roman Empire",
+    "bool_expr": "ancient-rome",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "55869f07-69ec-4076-9af5-593f076eeb35",
+    "name": "Computing",
+    "bool_expr": "(computing | (computer-scientist | computer))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "55a16f2c-699a-4014-99d4-5f1d5ebc1e4c",
+    "name": "Morocco",
+    "bool_expr": "(morocco | moroccan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "574f690b-6b5e-4b5e-87d3-1b7d3dbdb638",
+    "name": "Futurism",
+    "bool_expr": "futurism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "59ff5fcd-e2af-4655-9ced-100a0459edc9",
+    "name": "Pop Art",
+    "bool_expr": "pop-art",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "5f552095-438e-420b-9f47-c703c9c40eae",
+    "name": "United Kingdom",
+    "bool_expr": "united-kingdom",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "5fcb461a-cf38-4f37-8118-51ae7b1d2494",
+    "name": "Brazil",
+    "bool_expr": "(brazil | brazilian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "5fdb41e5-e93d-4583-ad6c-2c8dd9700eda",
+    "name": "Economics",
+    "bool_expr": "economics",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "60613660-0c3d-4eb8-92c6-baf2197d7c46",
+    "name": "South Korea",
+    "bool_expr": "(south-korea | south-korean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "623bb067-169a-473e-8c15-956b813c5a64",
+    "name": "Latin America",
+    "bool_expr": "(latin-america | latin-america)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "628d7dfc-c000-40c2-bbbf-9acc8378ce87",
+    "name": "English Civil War",
+    "bool_expr": "english-civil-war",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6297e60e-14c4-4e28-8311-2b65db405d1e",
+    "name": "Japan",
+    "bool_expr": "(japan | japanese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6312854c-35c0-46ab-b266-2509d7589598",
+    "name": "Tunisia",
+    "bool_expr": "(tunisia | tunisian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "633f6470-5440-4b19-a417-f4013d501ee9",
+    "name": "Haiti",
+    "bool_expr": "(haiti | haitian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6376f9fa-7af2-48c1-86dc-e4a62942a051",
+    "name": "Linguistics",
+    "bool_expr": "(linguistics | linguist)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "641d9a69-67f3-4046-93ab-8a7c19075a88",
+    "name": "Kota Art",
+    "bool_expr": "kota-art",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "644cd5bc-192f-413e-8f45-5ce0a3d39e85",
+    "name": "Poland",
+    "bool_expr": "(poland | polish)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "64ad0cf6-8007-43f9-b01c-1b2cbccee10c",
+    "name": "Finance",
+    "bool_expr": "finance",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "65014c45-41ff-4027-8f5c-9caf4b261da8",
+    "name": "Sierra Leone",
+    "bool_expr": "(sierra-leone | sierra-leonean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6564dad8-a2c8-4aff-ab52-4b843e5f09e0",
+    "name": "World War II (WWII)",
+    "bool_expr": "world-war-ii",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "666b8783-0c7d-416b-a7cb-62c437f5ce41",
+    "name": "Ancient Roman Republic",
+    "bool_expr": "ancient-roman-republic",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "673ffa1e-8a19-4293-8de8-7e8b883e9da4",
+    "name": "Ancient Athens",
+    "bool_expr": "ancient-athens",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "67b6650b-afb8-4d01-84f4-d5405176fa6d",
+    "name": "Ukraine",
+    "bool_expr": "(ukraine | ukrainian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6cf6dd68-e412-4a77-8626-7a2a7b2fa7e7",
+    "name": "World War I (WWI)",
+    "bool_expr": "world-war-i",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6d6c12f7-a5d0-4bc8-ac47-99ab4a697aa8",
+    "name": "Russia",
+    "bool_expr": "(russia | russian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6d93cf9f-4c94-4a6a-8f92-1ddafc2ee0fe",
+    "name": "Gothic Architecture",
+    "bool_expr": "gothic-architecture",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6def7eb6-fbc2-47c4-9533-f42f1ba116de",
+    "name": "Philosophy",
+    "bool_expr": "philosophy",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "71c9b22a-2060-47bd-81a4-a04aff4f9fdf",
+    "name": "Belle Époque",
+    "bool_expr": "belle-epoque",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "729795ba-e90e-4dac-b52b-8de49723c3a9",
+    "name": "Iraq",
+    "bool_expr": "(iraq | iraqi)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "74a919da-cd26-4126-9894-d0300ce1c4b9",
+    "name": "European Monarchs",
+    "bool_expr": "(european & (monarch | (king | queen)))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "752cabd3-96c9-49dc-b221-9a9c30cf9232",
+    "name": "Afghanistan",
+    "bool_expr": "(afghanistan | afghan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "7538401f-e243-418f-99f1-63667222eb5e",
+    "name": "Palestine",
+    "bool_expr": "palestine",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "75683789-bfb2-4cc5-a9a1-764dc6c60425",
+    "name": "Belgium",
+    "bool_expr": "(belgium | belgian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "77b117b9-d18a-43b5-b270-19f949524dac",
+    "name": "Era of Good Feelings",
+    "bool_expr": "era-of-good-feelings",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "78098867-eb86-48c4-a08f-e77954466101",
+    "name": "Surrealism",
+    "bool_expr": "surrealism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "7939582d-4415-414b-8b7d-e08a74cc83e6",
+    "name": "Renaissance Art",
+    "bool_expr": "(renaissance & art)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "7aa2b5f8-9657-4b3a-b90f-14a19ecfbe2c",
+    "name": "Iran",
+    "bool_expr": "(iran | iranian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "7b27cc4e-9da4-411e-a869-2e8480ab0387",
+    "name": "Anglo-Saxon Art",
+    "bool_expr": "(anglo-saxon-art | (anglo-saxon & art))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "7ba6b6cc-ee91-4bf4-8dc6-b60eed841e5f",
+    "name": "French Monarchs",
+    "bool_expr": "(france & (king | queen))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "7f732a16-e2ad-448f-96f3-32267e9d805d",
+    "name": "Congo",
+    "bool_expr": "(congo | congolese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "808a7443-665e-4011-8bba-764ab015eb0b",
+    "name": "Paraguay",
+    "bool_expr": "(paraguay | paraguayan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "80a6d070-08cc-41a1-a9be-4ddc864f49f6",
+    "name": "Rococo Art",
+    "bool_expr": "(rococo & art)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "817c0146-cd2f-497f-9fb7-b71d3465a04f",
+    "name": "Spain",
+    "bool_expr": "(spain | spanish)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "819700b3-bde1-4e78-bb6c-9bc74e6d4942",
+    "name": "The Industrial Revolution",
+    "bool_expr": "industrial-revolution",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "81f404ef-0f8d-4322-94b6-1734cfceadf2",
+    "name": "Saudi Arabia",
+    "bool_expr": "(saudi-arabia | saudi-arabian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "82830313-9dac-4d8e-ad8b-86ed126826ed",
+    "name": "Aboriginal Art",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "83ec32fd-19fa-4e58-b40d-5e7e1f530b60",
+    "name": "New Zealand",
+    "bool_expr": "(new-zealand | new-zealander)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "851b6bba-66a8-41e1-a569-a5d48039302b",
+    "name": "Europe",
+    "bool_expr": "(europe | european)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "8578be59-ce03-45b0-92c3-4749adb6933f",
+    "name": "Cuba",
+    "bool_expr": "(cuba | cuban)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "85a4c9f4-b693-4cec-a3b7-822e92d3eeba",
+    "name": "Napoleonic Wars",
+    "bool_expr": "napoleonic-wars",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "89ca2726-afa8-40a3-a24b-f9eebc647cb2",
+    "name": "Georgia",
+    "bool_expr": "(georgia | georgian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "8a066892-9ebf-49b7-a303-1087e09fc60c",
+    "name": "Greece",
+    "bool_expr": "(greece | greek)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "8c236695-c3bc-4e37-bfe9-ea62c1833aea",
+    "name": "Egypt",
+    "bool_expr": "(egypt | egyptian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "8d29a9e5-dc67-483c-9648-5c4c673a0315",
+    "name": "Ecuador",
+    "bool_expr": "(ecuador | ecuadorian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "8fe3350f-4daa-4571-9c64-70f6039e0e2e",
+    "name": "Nigeria",
+    "bool_expr": "(nigeria | nigerian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "8ff46a97-e449-4bb2-ba97-67c32a0f9581",
+    "name": "Holy Roman Empire",
+    "bool_expr": "(holy-roman-empire | holy-roman-emperor)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9376bcd7-a8e8-406b-be87-8909b9d6b0bb",
+    "name": "Hellenistic Art",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "93ab4158-2d60-409e-b37e-94f9b6972d97",
+    "name": "Chad",
+    "bool_expr": "(chad | chadian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "95003a3b-aa83-4cdd-bd2e-42a70a151831",
+    "name": "Neo-Classicism",
+    "bool_expr": "neo-classicism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "99c5fe32-46dd-4f8c-8acc-6a334fcf6252",
+    "name": "Colonial Latin America",
+    "bool_expr": "((colonialism & latin-america) | colonial-latin-america)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "99c8abc9-1113-4bf8-9e1d-bb39c691132d",
+    "name": "Superrealism",
+    "bool_expr": "superrealism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9a60a2f2-ca56-4d72-a5a9-131ed9359c05",
+    "name": "Honduras",
+    "bool_expr": "(honduras | honduran)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9dc791dd-ba50-41f6-9855-82965a4fbb90",
+    "name": "Viking Art",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9e19aaee-28d1-4025-9d3a-136ee178ccfc",
+    "name": "Ivory Coast",
+    "bool_expr": "(ivory-coast | ivoirian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9f25446b-d26e-4d75-86ef-00e46a3df45d",
+    "name": "Writers",
+    "bool_expr": "writer",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9f62aa8c-4733-48a1-980a-142c434dcdce",
+    "name": "Cambodia",
+    "bool_expr": "(cambodia | cambodian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "a0b30987-c3ee-4308-a46b-62856d7299b3",
+    "name": "Jamaica",
+    "bool_expr": "(jamaica | jamaican)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "a101d811-1a3d-4518-8714-ae55ff59ad81",
+    "name": "Austria",
+    "bool_expr": "(austria | austrian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "a22ba7ad-b4e3-41e6-bf15-e0747474172a",
+    "name": "Uruguay",
+    "bool_expr": "(uruguay | uruguayan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "a3bbd9e5-3ee9-4eca-a2c8-3aaf6bacdeab",
+    "name": "Dada",
+    "bool_expr": "dada",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "a4602ebc-0f44-41b7-adc9-16cb1b8bdd2b",
+    "name": "Novels",
+    "bool_expr": "novel",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "a7853dde-7b23-40ab-8450-ce9e821e8a03",
+    "name": "El Salvador",
+    "bool_expr": "(el-salvador | salvadoran)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "a82ddf52-479f-4846-9de7-ea6db8896467",
+    "name": "Byzantine Empire",
+    "bool_expr": "byzantine-history",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "a913fed0-09c0-40c8-bb1d-fcd9a42c62d5",
+    "name": "Physics",
+    "bool_expr": "(physics | physicist)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "aa912a0f-6445-4ca9-af56-9ddfa65a1444",
+    "name": "Uganda",
+    "bool_expr": "(uganda | ugandan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ab2e1e6b-12f0-488d-896c-acdc8ffaf3e6",
+    "name": "Neo-Impressionism",
+    "bool_expr": "(neo-impressionism | neo-impressionist)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ab6b07ad-7a14-4089-b438-e17786e80392",
+    "name": "Portugal",
+    "bool_expr": "(portugal | portuguese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "abb478f6-bdd8-4181-aa27-86a3b146b6fc",
+    "name": "Romania",
+    "bool_expr": "(romania | romanian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ad0daf35-0931-40d9-91a4-9e14b68f6d31",
+    "name": "Battles in Europe",
+    "bool_expr": "(battle & europe)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ad7cfd9b-f070-4c34-9a62-a934499f0972",
+    "name": "Italy",
+    "bool_expr": "(italy | italian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "adf059a9-1090-4d2d-918a-4186219c65b9",
+    "name": "Carolinaian Art",
+    "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "aee2c617-8494-4776-a964-1c6fe7ed6267",
+    "name": "Assyrian Art",
+    "bool_expr": "(assyrian-art | (assyrian & art))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "af06c631-24eb-4731-880f-7211bc49e89d",
+    "name": "Ghana",
+    "bool_expr": "(ghana | ghanaian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "b27005db-0fc1-449a-b4f0-c48094b849d9",
+    "name": "Vorticism",
+    "bool_expr": "vorticism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "b5868293-b418-4f18-867c-17581d358b8a",
+    "name": "British Law",
+    "bool_expr": "british-law",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "b5bc9420-5874-4f3b-af9c-521d47d5d709",
+    "name": "Classical Realism",
+    "bool_expr": "classical-realism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "b5e6b360-0df5-45fb-9f0e-195d6c93e746",
+    "name": "African-American Art",
+    "bool_expr": "african-american-art",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "b8bd7956-1a00-4380-bcef-5d106896a07f",
+    "name": "Impressionism",
+    "bool_expr": "(impressionism | impressionist)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "bc9f3806-e9af-41ad-9754-4dfcd17ad24a",
+    "name": "Hyperrealism",
+    "bool_expr": "hyperrealism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "bd4aa407-a57f-4154-b32b-309fb479628b",
+    "name": "Sculpture & Sculptors",
+    "bool_expr": "(sculpture | sculptor)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "be9f67c1-256d-42c5-b13f-403ccf1960cc",
+    "name": "Venezuela",
+    "bool_expr": "(venezuelan | venezuela)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "befcc7c1-b17f-4746-bdd7-f714b98b75cd",
+    "name": "Switzerland",
+    "bool_expr": "(switzerland | swiss)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "bf0716d4-0aec-4fab-91af-38e19fa3d84f",
+    "name": "Malaysia",
+    "bool_expr": "(malaysia | malay)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c2255bfa-f1cb-4775-8a4c-12a2f04353a3",
+    "name": "Guitarist",
+    "bool_expr": "guitarist",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c2c78d0a-e2f7-4885-af49-14f39069ed67",
+    "name": "The Reformation",
+    "bool_expr": "the-reformation",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c3a882de-6954-481b-844d-94e8f15db378",
+    "name": "Romanticism",
+    "bool_expr": "romanticism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c3d91223-2184-44e7-a92c-cef5f5c7f470",
+    "name": "Guatemala",
+    "bool_expr": "(guatemala | guatemalan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c410ac91-b78c-44fb-8eec-64ed6411a630",
+    "name": "Liberia",
+    "bool_expr": "(liberia | liberian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c4f96c89-8b07-4a9e-a61b-c6596e239f4e",
+    "name": "Mexico",
+    "bool_expr": "(mexico | mexican)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c58ed66f-9b0d-421f-842d-9d103a6a8317",
+    "name": "Argentina",
+    "bool_expr": "(argentina | argentinan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c5f8339a-190f-4cbb-a325-7404134c7c22",
+    "name": "Expressionism",
+    "bool_expr": "expressionism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c6fac60a-762b-44f6-b6c1-194059742634",
+    "name": "Colonial Africa",
+    "bool_expr": "(colonialism & africa)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c709c400-bf1c-41da-920e-e5eb86d8a104",
+    "name": "Rwanda",
+    "bool_expr": "(rwanda | rwandan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c7d5fae0-c879-4394-8ca2-4dc0a1d381ac",
+    "name": "Angola",
+    "bool_expr": "(angola | angolan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c86e6eca-1383-4f4a-aff6-ea2830a2fefe",
+    "name": "The Age of Sail",
+    "bool_expr": "age-of-sail",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "c936b8dc-5959-4fbd-96f2-ac8b7ae58eb7",
+    "name": "Science",
+    "bool_expr": "science",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ca799e5b-6501-4b2f-86a6-cb08b82d1895",
+    "name": "Painters",
+    "bool_expr": "painter",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "cc21eb44-8408-4ff4-a31e-6d6cd5c797d4",
+    "name": "Roman Catholic Popes",
+    "bool_expr": "papacy",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "cd4c1f25-e5db-4de8-a291-31c7d302811e",
+    "name": "Persian Art",
+    "bool_expr": "persian-art",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ce10c3d8-4d29-46ac-aeda-56bcd27fde2d",
+    "name": "Historians",
+    "bool_expr": "historian",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ce664fca-b0f6-4444-ad59-9db4d8b4c752",
+    "name": "India",
+    "bool_expr": "(india | indian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "cf2d0823-a7e1-4955-a1d9-c8eb3b8e5ada",
+    "name": "Libya",
+    "bool_expr": "(libya | libyan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "d09b2dfb-7228-4cd1-b025-46e21746a2be",
+    "name": "Central African Republic",
+    "bool_expr": "(central-african-republic | central-african)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "d0f435a4-07d5-4301-b9f6-0908ae237304",
+    "name": "Art Deco",
+    "bool_expr": "art-deco",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "d3564d3a-e20d-45b4-a23f-f04b58993440",
+    "name": "Egyptian Art",
+    "bool_expr": "((egyptian & art) | egyptian-art)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "d6a707ea-64f8-4b36-a73b-03c49f6cbc26",
+    "name": "Kuwait",
+    "bool_expr": "(kuwait | kuwaiti)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "d80636e4-b366-4e1b-bb04-53486f1d3cdd",
+    "name": "North Korea",
+    "bool_expr": "(north-korea | north-korean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "d926f983-c41c-4fb3-87ad-4cb6a4adaf46",
+    "name": "Ancient Greeks",
+    "bool_expr": "ancient-greek",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "dbecaf35-8fd1-48e7-99f8-2ce447481642",
+    "name": "Senegal",
+    "bool_expr": "(senegal | senegalese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "de511a36-e679-4e9a-9ead-4ed04b4059e6",
+    "name": "Rayonism",
+    "bool_expr": "rayonism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "df471930-0a02-481f-b8ab-aff3bf496150",
+    "name": "Burkina Faso",
+    "bool_expr": "(burkina-faso | burkinabe)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e231cb2d-0e52-4af5-8771-37052478a3de",
+    "name": "Lebanon",
+    "bool_expr": "(lebanon | lebanese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e35617ca-eef9-4ed3-8541-4c8f64d73bc4",
+    "name": "Syria",
+    "bool_expr": "(syria | syrian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e4986756-3d32-4bd0-915c-347df5e09b9a",
+    "name": "Wars",
+    "bool_expr": "war",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e4f36988-36d0-43f8-89a4-0f269c8282ed",
+    "name": "Bangladesh",
+    "bool_expr": "(bangladesh | bangladeshi)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e5293d18-09f3-43ce-a637-10dc55d147e0",
+    "name": "Israel-Palestine Conflict",
+    "bool_expr": "israel-palestine-conflict",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e76cb3f3-3112-4ce5-ab41-128f7906ab9f",
+    "name": "European Wars",
+    "bool_expr": "(war & europe)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e9a1b7c1-1ffc-462d-a4ee-35332f6354b0",
+    "name": "The Age of Discovery",
+    "bool_expr": "age-of-discovery",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ebe52389-e24a-4e9b-9cfd-9d024871897f",
+    "name": "Mediaeval Art",
+    "bool_expr": "(mediaeval-art | (mediaeval & art))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ec479bfd-255a-47a1-93ae-4d4b8b2861af",
+    "name": "Germany",
+    "bool_expr": "(german | germany)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ed49a3e5-99e7-40d2-9e64-078dfe6d9c91",
+    "name": "Thailand",
+    "bool_expr": "(thailand | thai)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ee365b92-1601-433b-8f21-d08041bdd50a",
+    "name": "South Asia",
+    "bool_expr": "(south-asia | south-asian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "eede57e1-89bf-407b-8180-4af6f420d75a",
+    "name": "Artists",
+    "bool_expr": "artist",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ef431e91-3ff2-487a-8d3c-b0408c288383",
+    "name": "China",
+    "bool_expr": "(china | chinese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "f1b4edda-9292-4bf4-ad62-f4d7f5958041",
+    "name": "Pre-Raphaelite Brotherhood",
+    "bool_expr": "pre-raphaelite",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "f48768b8-c0df-48aa-bb65-defc47965b52",
+    "name": "Mozambique",
+    "bool_expr": "(mozambique | mozambican)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "fa6099c3-5d37-40ef-9750-7fa4531ec87e",
+    "name": "Malawi",
+    "bool_expr": "(malawi | malawian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "fa7daa02-ab6c-4e6f-b9e9-6300945cef79",
+    "name": "Art Nouveau",
+    "bool_expr": "art-nouveau",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "fad579e1-69e9-4512-a1f7-69f9e5bbb134",
+    "name": "British Politics",
+    "bool_expr": "(british & (prime-minister | politician))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "fc58fdb4-6c26-426e-b509-5d72c2298a7a",
+    "name": "Financial Crashes & Crises",
+    "bool_expr": "(financial-crash | financial-crisis)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "fe1c4e64-c4c4-4052-bec7-3a0b42bcbc58",
+    "name": "Ancient Rome",
+    "bool_expr": "(ancient-rome | (ancient & rome))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "fe643dea-1298-4c31-ac80-4caa8c44843f",
+    "name": "NATO",
+    "bool_expr": "nato",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "feb6aec8-8317-4b8c-9f21-b873ccca06b5",
+    "name": "Victorian Art",
+    "bool_expr": "(art & victorian-era)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ff30919d-7418-4d90-b381-ed7855e783f6",
+    "name": "Books",
+    "bool_expr": "book",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "ffd1d7f6-f2dd-4cec-8bf0-acfbe601ce75",
+    "name": "Vietnam",
+    "bool_expr": "(vietnam | vietnamese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  }
+]

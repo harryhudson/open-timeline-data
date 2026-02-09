@@ -1,0 +1,10 @@
+[package]
+name = "validator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+open-timeline-crud = { version = "0.1.2" }
+tempdir = "0.3.7"
+tokio = "1.42.0"
+sqlx = { version = "0.8.3", default-features = false }
