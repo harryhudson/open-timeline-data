@@ -1,5 +1,13 @@
 [
   {
+    "id": "00e1c4b3-4a27-4555-80bf-67872e60b99c",
+    "name": "The Gambia",
+    "bool_expr": "(the-gambia | gambian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "012485b6-62bd-477f-afae-3bb95d4e364a",
     "name": "Hungary",
     "bool_expr": "(hungary | hungarian)",
@@ -11,6 +19,22 @@
     "id": "02340820-d174-408a-89e5-d3147c2a09a0",
     "name": "Bolivia",
     "bool_expr": "(bolivia | bolivian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "03b9cc8d-8568-476e-9f6a-f5fd77dd3f64",
+    "name": "Czech Republic",
+    "bool_expr": "(czech-republic | czech)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "04cb4d40-526e-42d1-a7d7-dcfe5168e8e6",
+    "name": "Armenia",
+    "bool_expr": "(armenia | armenian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -32,6 +56,22 @@
     "tags": null
   },
   {
+    "id": "0735da33-b715-47ee-8fdd-f8c354e83426",
+    "name": "Trinidad and Tobago",
+    "bool_expr": "(trinidad-and-tobago | (trinidadian | tobagonian))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0812b23d-c324-4ad9-9514-3888e5c7726d",
+    "name": "Sri Lanka",
+    "bool_expr": "(sri-lanka | sri-lankan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "08f6f521-9a51-4922-8fa8-aa427ee23a0b",
     "name": "Philippines",
     "bool_expr": "(philippines | filipino)",
@@ -42,7 +82,15 @@
   {
     "id": "0b39b2a8-8e04-40f3-a0c6-d2b60f6a8679",
     "name": "United States",
-    "bool_expr": "united-states",
+    "bool_expr": "(united-states | american)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "0b4418f4-c1bc-46c0-a3d9-06e09d73d8f7",
+    "name": "Gabon",
+    "bool_expr": "(gabon | gabonese)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -112,6 +160,14 @@
     "tags": null
   },
   {
+    "id": "10b993d6-7fdf-4c04-ae6c-8bf7dbe194c8",
+    "name": "Nauru",
+    "bool_expr": "(nauru | nauruan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "10c22988-f612-4458-8668-95008d303f4d",
     "name": "Nepal",
     "bool_expr": "(nepal | nepali)",
@@ -123,6 +179,38 @@
     "id": "10c7dc0f-bd45-4d88-a9da-871a8c2a737d",
     "name": "Zimbabwe",
     "bool_expr": "(zimbabwe | zimbabwean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "131c8b30-d953-46a4-86a2-cbff30bb134d",
+    "name": "Republic of the Congo",
+    "bool_expr": "republic-of-the-congo",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1339d204-009d-47e5-8ae9-6eb92c0e0697",
+    "name": "Slovenia",
+    "bool_expr": "(slovenia | slovenian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "141ce51d-bfb6-407c-b293-86708dc7bc7a",
+    "name": "Eswatini",
+    "bool_expr": "(eswatini | swazi)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "1486480a-3416-4715-8e25-a1eda62d1945",
+    "name": "Guinea-Bissau",
+    "bool_expr": "(guinea-bissau | bissau-guinean)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -224,6 +312,14 @@
     "tags": null
   },
   {
+    "id": "1bfbce62-9e94-421f-85a5-1c229a99836b",
+    "name": "Fiji",
+    "bool_expr": "(fiji | fijian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "1c1ad329-41d1-49f4-8d7f-f548bd93bbb4",
     "name": "Australia",
     "bool_expr": "(australia | australian)",
@@ -240,9 +336,17 @@
     "tags": null
   },
   {
+    "id": "1ca47b54-dc4d-4c9a-9fd7-df387da945a5",
+    "name": "Lesotho",
+    "bool_expr": "(lesotho | mosotho)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "1d4db2b8-14aa-4668-9c22-8ae0884aa92f",
     "name": "Ethiopia",
-    "bool_expr": "(ethiopia | ethiopia)",
+    "bool_expr": "(ethiopia | ethiopian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -264,6 +368,14 @@
     "tags": null
   },
   {
+    "id": "1ede50e2-1753-43e7-9430-e962e36a6a8e",
+    "name": "United Arab Emirates",
+    "bool_expr": "(united-arab-emirates | emirati)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "1fdc7588-4eaa-48cf-9b44-60acb393951e",
     "name": "South Africa",
     "bool_expr": "(south-africa | south-african)",
@@ -280,6 +392,22 @@
     "tags": null
   },
   {
+    "id": "204fb4b7-8896-4012-b026-6b4bf052e313",
+    "name": "San Marino",
+    "bool_expr": "(san-marino | sammarinese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "2089425e-efef-4fb8-8a7b-1a291e94f1a5",
+    "name": "Lithuania",
+    "bool_expr": "(lithuania | lithuanian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "20991a8a-8cf9-4f8e-82a3-948e5781ddea",
     "name": "Byzantine Art",
     "bool_expr": "byzantine-art",
@@ -288,9 +416,25 @@
     "tags": null
   },
   {
+    "id": "20f6af75-0d0a-4e0b-afba-47426b8c1ec6",
+    "name": "Belize",
+    "bool_expr": "(belize | belizean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "21423685-47f4-46b9-b69a-f4dfd7ea24bc",
     "name": "Kenya",
     "bool_expr": "(kenya | kenyan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "217a61af-fff0-455f-a3dc-5b06b0077ea3",
+    "name": "Andorra",
+    "bool_expr": "(andorran | andorra)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -312,9 +456,25 @@
     "tags": null
   },
   {
+    "id": "24032259-53ef-46b4-b440-4fde828742f5",
+    "name": "Mali",
+    "bool_expr": "(mali | malian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "245dd8da-bc54-4132-8102-f43d097c676f",
+    "name": "Bosnia and Herzegovina",
+    "bool_expr": "(bosnia-and-herzegovina | (bosnian | herzegovinan))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "2603b82e-8e2a-4932-8346-a180f626145e",
     "name": "Israel",
-    "bool_expr": "(israel | (israeli | israel-palestine-conflict))",
+    "bool_expr": "(israel | israeli)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -347,6 +507,14 @@
     "id": "28350085-3d86-4758-865b-e7fa3f0c41d0",
     "name": "Tudor Architecture",
     "bool_expr": "(architectrue & tudor)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "28718ee8-52c6-4fbd-978b-45b2075d04de",
+    "name": "Malta",
+    "bool_expr": "(malta | maltese)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -392,6 +560,14 @@
     "tags": null
   },
   {
+    "id": "2bfb2ea1-393b-448e-a036-eecdd2094cc8",
+    "name": "Albania",
+    "bool_expr": "(albania | albanian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "2c4c5634-473a-47b3-9fc8-84560a4a5c62",
     "name": "The Cold War",
     "bool_expr": "cold-war",
@@ -400,9 +576,25 @@
     "tags": null
   },
   {
+    "id": "2e63fbdf-2230-4473-9aca-95fca5742952",
+    "name": "Niger",
+    "bool_expr": "(niger | nigerien)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "2f6564ea-20ae-4f9c-ac90-aa73f3e70f41",
     "name": "Aztecs",
     "bool_expr": "(aztec | aztecs)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "316e9d0a-20fb-4287-8837-2127f16335b0",
+    "name": "Turkmenistan",
+    "bool_expr": "(turkmenistan | (turkmenistani | turkmen))",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -464,6 +656,30 @@
     "tags": null
   },
   {
+    "id": "3c3917a4-6b04-4c08-aa4b-358c49d77eb4",
+    "name": "Croatia",
+    "bool_expr": "(croatia | (croatian | croat))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "3de484f4-cf49-49b4-ba43-b2b363cc650d",
+    "name": "Seychelles",
+    "bool_expr": "(seychelles | (seychellois | seychelloise))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "3f37415a-38c8-4bcd-b0b1-9b4b4aa9a76b",
+    "name": "Sweden",
+    "bool_expr": "(sweden | swedish)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "3fe388c5-e1a8-4e3a-a4ca-17afdfd4debd",
     "name": "People",
     "bool_expr": "person",
@@ -480,9 +696,17 @@
     "tags": null
   },
   {
+    "id": "40d90417-ff47-4c11-82e4-158d05b622e8",
+    "name": "Cyprus",
+    "bool_expr": "(cyprus | cypriot)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "430a0a37-ebe9-474d-a9e7-0fcd1f30acb7",
     "name": "Denmark",
-    "bool_expr": "(denmark | danish)",
+    "bool_expr": "(denmark | (danish | dane))",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -544,6 +768,14 @@
     "tags": null
   },
   {
+    "id": "4d4085bb-59ed-40e9-ac30-a4ce10c48d8c",
+    "name": "Jordan",
+    "bool_expr": "(jordan | jordanian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "4f09ac30-7838-4f48-86ea-5370bd9287e3",
     "name": "Cubism",
     "bool_expr": "cubism",
@@ -555,6 +787,22 @@
     "id": "4f6908a4-692a-424a-8217-d5336d01f691",
     "name": "Nobel Prize Winners",
     "bool_expr": "(nobel-prize-winner & person)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "5179cacf-acdb-4843-93e9-c06fae3adabb",
+    "name": "Namibia",
+    "bool_expr": "(namibia | namibian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "52bda64a-58f1-4b89-8fbf-393f1e71ed08",
+    "name": "Barbados",
+    "bool_expr": "(barbados | barbadian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -578,7 +826,7 @@
   {
     "id": "5542e2e1-dc84-4c39-a311-1f54095a5a56",
     "name": "Finland",
-    "bool_expr": "(finland | finn)",
+    "bool_expr": "(finland | (finn | finnish))",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -608,6 +856,14 @@
     "tags": null
   },
   {
+    "id": "56c5c73f-e024-4335-b05f-0e2fbffd8541",
+    "name": "Saint Lucia",
+    "bool_expr": "(saint-lucia | saint-lucian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "574f690b-6b5e-4b5e-87d3-1b7d3dbdb638",
     "name": "Futurism",
     "bool_expr": "futurism",
@@ -626,7 +882,7 @@
   {
     "id": "5f552095-438e-420b-9f47-c703c9c40eae",
     "name": "United Kingdom",
-    "bool_expr": "united-kingdom",
+    "bool_expr": "(united-kingdom | (british | briton))",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -651,6 +907,14 @@
     "id": "60613660-0c3d-4eb8-92c6-baf2197d7c46",
     "name": "South Korea",
     "bool_expr": "(south-korea | south-korean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "61c9f4ff-6051-4466-b874-6f7bc1ec4f67",
+    "name": "Belarus",
+    "bool_expr": "(belarus | belarusian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -768,6 +1032,30 @@
     "tags": null
   },
   {
+    "id": "67ee32cf-dd25-4bc0-8c8b-236a13b1bc9f",
+    "name": "Benin",
+    "bool_expr": "(benin | beninese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6bb87a84-2351-4fdf-b560-0034e8a82446",
+    "name": "Liechtenstein",
+    "bool_expr": "(liechtenstein | liechtensteiner)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "6bcc3054-2240-493e-9006-0a56b0d7bd85",
+    "name": "Oman",
+    "bool_expr": "(oman | omani)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "6cf6dd68-e412-4a77-8626-7a2a7b2fa7e7",
     "name": "World War I (WWI)",
     "bool_expr": "world-war-i",
@@ -800,6 +1088,30 @@
     "tags": null
   },
   {
+    "id": "6e7fcdcf-b16f-42d0-994c-6524b5853cad",
+    "name": "Djibouti",
+    "bool_expr": "(djibouti | djiboutian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "70d654ca-12a3-4be7-9feb-2be4c4bdadc1",
+    "name": "Kyrgyzstan",
+    "bool_expr": "(kyrgyzstan | (kyrgyz | kyrgyzstani))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "714c6d72-4fe6-4bc0-a189-f16d9a2936b4",
+    "name": "Vatican City",
+    "bool_expr": "vatican-city",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "71c9b22a-2060-47bd-81a4-a04aff4f9fdf",
     "name": "Belle Époque",
     "bool_expr": "belle-epoque",
@@ -811,6 +1123,14 @@
     "id": "729795ba-e90e-4dac-b52b-8de49723c3a9",
     "name": "Iraq",
     "bool_expr": "(iraq | iraqi)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "74a6a9f9-9aa1-4101-9afb-bd1d390eab78",
+    "name": "Bulgaria",
+    "bool_expr": "(bulgaria | bulgarian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -834,7 +1154,15 @@
   {
     "id": "7538401f-e243-418f-99f1-63667222eb5e",
     "name": "Palestine",
-    "bool_expr": "palestine",
+    "bool_expr": "(palestine | palestinian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "7562453e-cc05-42e3-a57c-9614a4150f0d",
+    "name": "Comoros",
+    "bool_expr": "(comoros | comorian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -872,6 +1200,14 @@
     "tags": null
   },
   {
+    "id": "7a5cb2eb-3f61-4a35-8338-ee46ccd3bcfe",
+    "name": "Tonga",
+    "bool_expr": "(tonga | tongan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "7aa2b5f8-9657-4b3a-b90f-14a19ecfbe2c",
     "name": "Iran",
     "bool_expr": "(iran | iranian)",
@@ -896,9 +1232,33 @@
     "tags": null
   },
   {
+    "id": "7d1f5f79-7282-4331-83e9-d9142a893421",
+    "name": "Pakistan",
+    "bool_expr": "(pakistan | pakistani)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "7e16b9f5-7420-4f2e-bcc2-a7394aca1866",
+    "name": "Burundi",
+    "bool_expr": "(burundi | burundian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "7f732a16-e2ad-448f-96f3-32267e9d805d",
-    "name": "Congo",
-    "bool_expr": "(congo | congolese)",
+    "name": "Democratic Republic of the Congo",
+    "bool_expr": "democratic-republic-of-the-congo",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "7fcb46da-5801-4cfe-bc88-3a2e16315659",
+    "name": "South Sudan",
+    "bool_expr": "(south-sudan | south-sudanese)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -952,6 +1312,14 @@
     "tags": null
   },
   {
+    "id": "8375f712-3b52-4f8b-a8ab-b7b53fa89791",
+    "name": "Solomon Islands",
+    "bool_expr": "(solomon-islands | solomon-islander)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "83ec32fd-19fa-4e58-b40d-5e7e1f530b60",
     "name": "New Zealand",
     "bool_expr": "(new-zealand | new-zealander)",
@@ -979,6 +1347,14 @@
     "id": "85a4c9f4-b693-4cec-a3b7-822e92d3eeba",
     "name": "Napoleonic Wars",
     "bool_expr": "napoleonic-wars",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "896283d7-6abe-4440-b033-deb030480cc9",
+    "name": "East Timor",
+    "bool_expr": "(east-timor | east-timorese)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1032,6 +1408,22 @@
     "tags": null
   },
   {
+    "id": "91264e33-18c1-4768-a1d5-60c7b99f1d09",
+    "name": "Mauritius",
+    "bool_expr": "(mauritius | mauritian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "914273f7-e5cd-4c1d-b43b-d8435bbf07f2",
+    "name": "Netherlands",
+    "bool_expr": "(netherlands | dutch)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "9376bcd7-a8e8-406b-be87-8909b9d6b0bb",
     "name": "Hellenistic Art",
     "bool_expr": null,
@@ -1051,6 +1443,22 @@
     "id": "95003a3b-aa83-4cdd-bd2e-42a70a151831",
     "name": "Neo-Classicism",
     "bool_expr": "neo-classicism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9672cc48-7418-484d-96e3-4ea49cb58542",
+    "name": "Luxembourg",
+    "bool_expr": "(luxembourg | luxembourger)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "97071654-aa11-4cd3-8582-a7545ddf928e",
+    "name": "Cape Verde",
+    "bool_expr": "(cape-verde | (cape-verdean | cabo-verdean))",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1080,6 +1488,22 @@
     "tags": null
   },
   {
+    "id": "9b6ab8a6-619a-4093-887d-6fba3a97f64d",
+    "name": "Monaco",
+    "bool_expr": "(monaco | monacan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9c376f02-d0b2-4978-a0c3-21bcda93f6d1",
+    "name": "Dominican Republic",
+    "bool_expr": "dominican-republic",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "9dc791dd-ba50-41f6-9855-82965a4fbb90",
     "name": "Viking Art",
     "bool_expr": null,
@@ -1091,6 +1515,30 @@
     "id": "9e19aaee-28d1-4025-9d3a-136ee178ccfc",
     "name": "Ivory Coast",
     "bool_expr": "(ivory-coast | ivoirian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9e2e68a2-2fd3-4944-b0c1-e693c9d087d1",
+    "name": "Suriname",
+    "bool_expr": "(suriname | surinamese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9e3ad6d6-5f5b-4582-b059-2131ad4cbf4e",
+    "name": "Equatorial Guinea",
+    "bool_expr": "(equatorial-guinea | equatoguinean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "9e8df38b-e117-498b-a91a-6d55c81fb161",
+    "name": "Maldives",
+    "bool_expr": "(maldives | maldivian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1192,6 +1640,14 @@
     "tags": null
   },
   {
+    "id": "ab5c8d3d-106d-4c4a-8a7d-099db8dcca31",
+    "name": "Eritrea",
+    "bool_expr": "(eritrea | eritrean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "ab6b07ad-7a14-4089-b438-e17786e80392",
     "name": "Portugal",
     "bool_expr": "(portugal | portuguese)",
@@ -1227,6 +1683,14 @@
     "id": "adf059a9-1090-4d2d-918a-4186219c65b9",
     "name": "Carolinaian Art",
     "bool_expr": null,
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "aec110b2-fc9d-498a-9056-efaa3c8c62a8",
+    "name": "Grenada",
+    "bool_expr": "(grenada | grenadian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1288,9 +1752,25 @@
     "tags": null
   },
   {
+    "id": "bc0f6100-6202-4a90-ad39-8ecf6e557a0f",
+    "name": "Azerbaijan",
+    "bool_expr": "(azerbaijani | (azeri | azerbaijan))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "bc9f3806-e9af-41ad-9754-4dfcd17ad24a",
     "name": "Hyperrealism",
     "bool_expr": "hyperrealism",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "bcadf567-8333-4dcd-bdff-3fe5455aa47d",
+    "name": "Mongolia",
+    "bool_expr": "(mongolia | mongolian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1368,6 +1848,14 @@
     "tags": null
   },
   {
+    "id": "c4bf8c9f-73d9-4a1d-ad95-39dfca29be9e",
+    "name": "Samoa",
+    "bool_expr": "(samoa | samoan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "c4f96c89-8b07-4a9e-a61b-c6596e239f4e",
     "name": "Mexico",
     "bool_expr": "(mexico | mexican)",
@@ -1440,6 +1928,14 @@
     "tags": null
   },
   {
+    "id": "cb922c73-75a2-45f1-925d-773599e0149b",
+    "name": "Somalia",
+    "bool_expr": "(somalia | somali)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "cc21eb44-8408-4ff4-a31e-6d6cd5c797d4",
     "name": "Roman Catholic Popes",
     "bool_expr": "papacy",
@@ -1448,9 +1944,25 @@
     "tags": null
   },
   {
+    "id": "cd3587b0-f9bd-413a-b163-cbac7aa806f9",
+    "name": "Tajikistan",
+    "bool_expr": "(tajikistan | (tajik | tajikistani))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "cd4c1f25-e5db-4de8-a291-31c7d302811e",
     "name": "Persian Art",
     "bool_expr": "persian-art",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "cd517c22-e5bf-4344-84f8-bed1f97cbf8d",
+    "name": "Laos",
+    "bool_expr": "(laos | (lao | laotian))",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1496,6 +2008,22 @@
     "tags": null
   },
   {
+    "id": "d1d04648-3c3a-48a0-8e3f-927af397f07e",
+    "name": "Cameroon",
+    "bool_expr": "(cameroon | cameroonian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "d339b446-c6e5-4912-8f4b-2cc41168b302",
+    "name": "Zambia",
+    "bool_expr": "(zambia | zambian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "d3564d3a-e20d-45b4-a23f-f04b58993440",
     "name": "Egyptian Art",
     "bool_expr": "((egyptian & art) | egyptian-art)",
@@ -1520,6 +2048,14 @@
     "tags": null
   },
   {
+    "id": "d879b46b-2748-450c-922a-223de78cd63e",
+    "name": "Mauritania",
+    "bool_expr": "(mauritania | mauritanian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "d926f983-c41c-4fb3-87ad-4cb6a4adaf46",
     "name": "Ancient Greeks",
     "bool_expr": "ancient-greek",
@@ -1536,6 +2072,22 @@
     "tags": null
   },
   {
+    "id": "dc76d572-ceee-4b85-828f-b6aec6e9029e",
+    "name": "Dominica",
+    "bool_expr": "dominica",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "dcbfe9be-fcae-4903-8039-a49f46a79f48",
+    "name": "Serbia",
+    "bool_expr": "(serbia | serbian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "de511a36-e679-4e9a-9ead-4ed04b4059e6",
     "name": "Rayonism",
     "bool_expr": "rayonism",
@@ -1546,7 +2098,7 @@
   {
     "id": "df471930-0a02-481f-b8ab-aff3bf496150",
     "name": "Burkina Faso",
-    "bool_expr": "(burkina-faso | burkinabe)",
+    "bool_expr": "(burkina-faso | (burkinabe | burkinese))",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1563,6 +2115,14 @@
     "id": "e35617ca-eef9-4ed3-8541-4c8f64d73bc4",
     "name": "Syria",
     "bool_expr": "(syria | syrian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e483f3df-79b1-4607-8991-68f62b4373c2",
+    "name": "Latvia",
+    "bool_expr": "(latvia | latvian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1592,9 +2152,33 @@
     "tags": null
   },
   {
+    "id": "e5ba8e74-7561-4bf9-8d7d-26eef5f12341",
+    "name": "North Macedonia",
+    "bool_expr": "(north-macedonia | macedonian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e6cc684b-21ee-4f91-8aa9-cac3935f4073",
+    "name": "Moldova",
+    "bool_expr": "(moldova | moldovan)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "e76cb3f3-3112-4ce5-ab41-128f7906ab9f",
     "name": "European Wars",
     "bool_expr": "(war & europe)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "e8f58268-35cc-4205-a882-051b72213bf1",
+    "name": "Guinea",
+    "bool_expr": "(guinea | guinean)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1648,6 +2232,14 @@
     "tags": null
   },
   {
+    "id": "eefde06c-4600-4922-beb4-55002f3fb3cc",
+    "name": "Guyana",
+    "bool_expr": "(guyana | guyanese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "ef431e91-3ff2-487a-8d3c-b0408c288383",
     "name": "China",
     "bool_expr": "(china | chinese)",
@@ -1664,9 +2256,73 @@
     "tags": null
   },
   {
+    "id": "f3314a98-36ea-425c-9c17-740481c4dfc6",
+    "name": "Botswana",
+    "bool_expr": "(botswana | (batswana | motswana))",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "f3dde56b-067d-439c-ba7f-0e4a563ef27c",
+    "name": "Norway",
+    "bool_expr": "(norway | norwegian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "f48768b8-c0df-48aa-bb65-defc47965b52",
     "name": "Mozambique",
     "bool_expr": "(mozambique | mozambican)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "f4a58d7a-c2a6-4440-97a3-ae7246d3752b",
+    "name": "Brunei",
+    "bool_expr": "(brunei | bruneian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "f5d99db6-4822-41c8-b0eb-b35121359a94",
+    "name": "Bhutan",
+    "bool_expr": "(bhutan | bhutanese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "f6c52960-01e8-411e-a3eb-291941930356",
+    "name": "Panama",
+    "bool_expr": "(panama | panamanian)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "f8222997-bc37-4ce3-bae5-e946725ae56b",
+    "name": "Kazakhstan",
+    "bool_expr": "(kazakhstan | kazakhstani)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "f82de27b-c740-4358-9ae2-76863ea966f9",
+    "name": "Togo",
+    "bool_expr": "(togo | togolese)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "f9bbf6b4-7e5e-4784-97b7-6f397e5d1d50",
+    "name": "Estonia",
+    "bool_expr": "(estonia | estonian)",
     "entities": null,
     "subtimelines": null,
     "tags": null
@@ -1688,6 +2344,14 @@
     "tags": null
   },
   {
+    "id": "fad098f4-dbf9-4cd8-ad35-77649031d615",
+    "name": "Chile",
+    "bool_expr": "(chile | chilean)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
     "id": "fad579e1-69e9-4512-a1f7-69f9e5bbb134",
     "name": "British Politics",
     "bool_expr": "(british & (prime-minister | politician))",
@@ -1699,6 +2363,30 @@
     "id": "fc58fdb4-6c26-426e-b509-5d72c2298a7a",
     "name": "Financial Crashes & Crises",
     "bool_expr": "(financial-crash | financial-crisis)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "fd502f3d-b052-4cf6-85ad-4ffb8272c154",
+    "name": "Bahrain",
+    "bool_expr": "(bahrain | bahraini)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "fdd30a71-ee75-4d7b-9580-98bd267658f0",
+    "name": "Montenegro",
+    "bool_expr": "(montenegro | montenegrin)",
+    "entities": null,
+    "subtimelines": null,
+    "tags": null
+  },
+  {
+    "id": "fe0eaf42-5fc5-47da-af32-458d174e29fa",
+    "name": "Republic of Ireland",
+    "bool_expr": "republic-of-ireland",
     "entities": null,
     "subtimelines": null,
     "tags": null
